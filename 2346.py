@@ -1,3 +1,4 @@
+##메모리 초과
 # 양방향으로 회전하므로 deque 사용
 from collections import deque
 import sys, random 
